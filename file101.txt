@@ -1,1 +1,5 @@
 apresentando  o novo arquivo 101
+
+vamos ver agora quais mensagens o git irá apresentar
+
+esta linha foi editada via windows
