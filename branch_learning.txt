@@ -1,4 +1,4 @@
 New branch
 Nova linha no arquivo de aprendizado de branches
 Nova linha no arquivo de aprendizado de branches da branch master
-tentando criar conflito
+Nova linha no arquivo de aprendizado de branches da branch feature/new-feature
