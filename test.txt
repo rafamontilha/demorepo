@@ -2,3 +2,4 @@ Learning Git is cool!
 Never give up
  Git is the most popular VCS in the world used by millions of developers since it allows efficient collaboration via committing, reverting and merging changes. Besides, Git is free and open source and can be easily installed on Windows, macOS, Linux and all Unix-based platforms.
 Starting a new section
+inclui uma linha no test file
